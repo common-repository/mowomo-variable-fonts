@@ -1,0 +1,198 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: mowomo Variable Fonts\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-04-03 09:26+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.1; wp-5.3.2"
+
+#: mwm-variable-font.php:48
+msgid "Loading..."
+msgstr ""
+
+#: mwm-variable-font.php:49
+msgid ""
+"This option will overwrite all the font-size and line-height settings, the "
+"changes will be saved and this action cannot be undone. Are you sure you "
+"want to continue?"
+msgstr ""
+
+#: mwm-variable-font.php:50
+msgid ""
+"This option will overwrite all the target's font-family settings, the "
+"changes will be saved and this action cannot be undone. Are you sure you "
+"want to continue?"
+msgstr ""
+
+#: includes/frontend/functions.php:17
+#: includes/frontend/customizer/global_change_font_family.php:21
+#: includes/frontend/customizer/customizer.php:28
+#: includes/frontend/customizer/reset_configuration.php:21
+msgid "Mobile"
+msgstr ""
+
+#: includes/frontend/functions.php:18
+#: includes/frontend/customizer/global_change_font_family.php:22
+#: includes/frontend/customizer/customizer.php:29
+#: includes/frontend/customizer/reset_configuration.php:22
+msgid "Tablet"
+msgstr ""
+
+#: includes/frontend/functions.php:19
+#: includes/frontend/customizer/global_change_font_family.php:23
+#: includes/frontend/customizer/customizer.php:30
+#: includes/frontend/customizer/reset_configuration.php:23
+msgid "Desktop"
+msgstr ""
+
+#: includes/frontend/functions.php:33
+#: includes/frontend/customizer/customizer.php:44
+#: includes/frontend/customizer/reset_configuration.php:37
+msgid "Select a font"
+msgstr ""
+
+#. Name of the plugin
+#: includes/backend/menu_page.php:13 includes/backend/menu_page.php:14
+#: includes/frontend/customizer/customizer.php:21
+msgid "mowomo Variable Fonts"
+msgstr ""
+
+#: includes/backend/menu_page.php:59
+msgid ""
+"The mowomo Variable Fonts plugin is installed. You don't know how to start "
+"using it yet? Go to the site's customizer through this"
+msgstr ""
+
+#: includes/backend/menu_page.php:59
+msgid "link"
+msgstr ""
+
+#: includes/backend/menu_page.php:60
+msgid "Understood"
+msgstr ""
+
+#: includes/frontend/customizer/customizer.php:70
+#: includes/frontend/customizer/customizer.php:75
+msgid "Modular scale"
+msgstr ""
+
+#: includes/frontend/customizer/customizer.php:85
+msgid "Base"
+msgstr ""
+
+#: includes/frontend/customizer/customizer.php:96
+msgid "15:16 - minor second (1.067)"
+msgstr ""
+
+#: includes/frontend/customizer/customizer.php:97
+msgid "8:9 - major second (1.125)"
+msgstr ""
+
+#: includes/frontend/customizer/customizer.php:98
+msgid "5:6 - minor third (1.2)"
+msgstr ""
+
+#: includes/frontend/customizer/customizer.php:99
+msgid "4:5 - major third (1.25)"
+msgstr ""
+
+#: includes/frontend/customizer/customizer.php:100
+msgid "5:6 - perfect fourth (1.333)"
+msgstr ""
+
+#: includes/frontend/customizer/customizer.php:108
+msgid "Choose a modular scale"
+msgstr ""
+
+#: includes/frontend/customizer/customizer.php:123
+msgid "Apply modular scale"
+msgstr ""
+
+#: includes/frontend/customizer/customizer.php:134
+msgid "General modifications"
+msgstr ""
+
+#: includes/frontend/customizer/customizer.php:139
+msgid "Global font family modification"
+msgstr ""
+
+#: includes/frontend/customizer/customizer.php:148
+#: includes/frontend/customizer/customizer.php:213
+msgid "Choose a font"
+msgstr ""
+
+#: includes/frontend/customizer/customizer.php:160
+msgid "Choose targets"
+msgstr ""
+
+#: includes/frontend/customizer/customizer.php:164
+msgid "Every tag"
+msgstr ""
+
+#: includes/frontend/customizer/customizer.php:165
+msgid "All tags except titles"
+msgstr ""
+
+#: includes/frontend/customizer/customizer.php:166
+msgid "Only titles"
+msgstr ""
+
+#: includes/frontend/customizer/customizer.php:179
+msgid "Apply global change of font family"
+msgstr ""
+
+#: includes/frontend/customizer/customizer.php:181
+msgid ""
+"It is recommended to reload the page when changes have been made after "
+"pressing the button"
+msgstr ""
+
+#: includes/frontend/customizer/customizer.php:204
+msgid "Font family"
+msgstr ""
+
+#: includes/frontend/customizer/customizer.php:225
+#: includes/frontend/customizer/customizer.php:238
+#: includes/frontend/customizer/customizer.php:250
+#: includes/frontend/customizer/customizer.php:285
+#: includes/frontend/customizer/customizer.php:303
+#: includes/frontend/customizer/customizer.php:318
+msgid "Registered axes"
+msgstr ""
+
+#: includes/frontend/customizer/customizer.php:231
+#: includes/frontend/customizer/customizer.php:243
+#: includes/frontend/customizer/customizer.php:256
+#: includes/frontend/customizer/customizer.php:278
+#: includes/frontend/customizer/customizer.php:296
+#: includes/frontend/customizer/customizer.php:311
+#: includes/frontend/customizer/customizer.php:324
+msgid "Properties"
+msgstr ""
+
+#: includes/frontend/customizer/customizer.php:263
+#: includes/frontend/customizer/customizer.php:291
+msgid "Custom axes"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"An elegant solution for a better typography with beautiful variable fonts"
+msgstr ""
+
+#. Author of the plugin
+msgid "victorsaenztm, pedromcj95, acirujano, mowomo"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://www.mowomo.com"
+msgstr ""

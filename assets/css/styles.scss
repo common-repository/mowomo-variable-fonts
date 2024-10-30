@@ -1,0 +1,70 @@
+// Source Sans Variable
+@font-face {
+	src: url('../fonts/SourceSansVariable-Roman.otf.woff2'),
+		url('../fonts/SourceSansVariable-Roman.ttf.woff2')
+			format('woff2-variations');
+	font-family: 'Source Sans Variable';
+	font-style: normal;
+}
+@font-face {
+	src: url('../fonts/SourceSansVariable-Italic.otf.woff2'),
+		url('../fonts/SourceSansVariable-Italic.ttf.woff2')
+			format('woff2-variations');
+	font-family: 'Source Sans Variable';
+	font-style: italic;
+}
+
+// Montserrat
+@font-face {
+	src: url('../fonts/Montserrat-VF.woff2') format('woff2-variations');
+	font-family: 'Montserrat';
+	font-style: normal;
+}
+@font-face {
+	src: url('../fonts/Montserrat-Italic-VF.woff2') format('woff2-variations');
+	font-family: 'Montserrat';
+	font-style: italic;
+}
+
+// Sudo Variable
+@font-face {
+	src: url('../fonts/SudoWebVariable.woff2') format('woff2-variations');
+	font-family: 'Sudo Variable';
+	font-style: normal;
+}
+
+// Graduate
+@font-face {
+	src: url('../fonts/GRADUATE.woff2') format('woff2-variations');
+	font-family: 'Graduate';
+	font-style: normal;
+}
+
+// Recursive
+@font-face {
+	src: url('../fonts/recursive-MONO_CASL_wght_slnt_ital--2019_11_05-00_13.woff2')
+		format('woff2-variations');
+	font-family: 'Recursive';
+	font-style: normal;
+}
+
+// Science Gothic
+@font-face {
+	src: url('../fonts/ScienceGothicVF.woff2') format('woff2');
+	font-family: 'Science Gothic';
+	font-style: normal;
+}
+
+// Emotional Type
+@font-face {
+	src: url('../fonts/emotional-VF.woff2') format('woff2-variations');
+	font-family: 'Emotional Type';
+	font-style: normal;
+}
+
+// Estedad
+@font-face {
+	src: url('../fonts/Estedad-VF.woff2') format('woff2-variations');
+	font-family: 'Estedad';
+	font-style: normal;
+}
